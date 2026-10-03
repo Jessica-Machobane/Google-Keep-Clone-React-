@@ -1,0 +1,6 @@
+{
+  "name": "Google Keep Clone",
+  "description": "A high-fidelity Google Keep clone featuring masonry notes, color-coding, pinning, labels, checklists, reminders, drag-and-drop, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
